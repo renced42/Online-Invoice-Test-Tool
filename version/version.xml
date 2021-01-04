@@ -3,4 +3,5 @@
 <applicationName>Online Invoice Test Tool</applicationName>
 <applicationVersion>3.0.7669</applicationVersion>
 <installerName>OnlineInvoiceTool_installer_2020_12_28.exe</installerName>
+<baseUrl>https://github.com/renced42/Online-Invoice-Test-Tool/blob/main/bin/</baseUrl>
 </application>
